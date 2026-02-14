@@ -1,0 +1,7 @@
+
+{
+  "description": "Rekan Curhat - Platform curhat anonim dan aman dengan dukungan AI empatik.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
