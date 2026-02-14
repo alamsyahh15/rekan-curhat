@@ -481,7 +481,7 @@ const App: React.FC = () => {
               <div className="media-item">
                 <h3 style={{fontSize: '1.1rem'}}>Visual Alam</h3>
                 <video controls poster="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800">
-                  <source src="https://assets.mixkit.co/videos/preview/mixkit-beautiful-landscape-of-mountains-and-lakes-26456-large.mp4" type="video/mp4" />
+                  <source src="https://assets.mixkit.co/videos/4132/4132-720.mp4" type="video/mp4" />
                 </video>
                 <p style={{fontSize: '0.8rem', color: '#999', marginTop: '10px'}}>Pemandangan gunung yang damai</p>
               </div>
@@ -489,7 +489,7 @@ const App: React.FC = () => {
               <div className="media-item">
                 <h3 style={{fontSize: '1.1rem'}}>Suara Hujan & Burung</h3>
                 <audio controls>
-                  <source src="https://assets.mixkit.co/sfx/preview/mixkit-forest-at-dawn-with-birds-singing-1218.mp3" type="audio/mpeg" />
+                  <source src="https://assets.mixkit.co/active_storage/sfx/2473/2473-preview.mp3" type="audio/mpeg" />
                 </audio>
                 <p style={{fontSize: '0.8rem', color: '#999', marginTop: '10px'}}>Suasana hutan di pagi hari</p>
               </div>
